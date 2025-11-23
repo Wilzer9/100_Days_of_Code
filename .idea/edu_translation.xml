@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="currentTranslationLanguage" value="Portuguese (Brazil)" />
+    <option name="structureTranslation">
+      <map>
+        <entry key="Portuguese (Brazil)">
+          <value>
+            <map>
+              <entry key="1044169934" value="Passo 3  " />
+              <entry key="1112857690" value="Tipos de Dados  " />
+              <entry key="1178211071" value="Dia 6  " />
+              <entry key="1179865809" value="Nomes de Variáveis  " />
+              <entry key="1199998776" value="Passo 5  " />
+              <entry key="1206289300" value="Passo 2  " />
+              <entry key="1235620065" value="Dia 3  " />
+              <entry key="1277708657" value="Escopo de Bloco  " />
+              <entry key="1298813328" value="Corrigir os Erros  " />
+              <entry key="1304427684" value="Onde estão os outros dias  " />
+              <entry key="1307993871" value="Usar um Depurador  " />
+              <entry key="1322657598" value="Dia 11  " />
+              <entry key="1336938375" value="Múltiplos Valores de Retorno  " />
+              <entry key="1407599981" value="Dia 12  " />
+              <entry key="1500767241" value="Dia 7  " />
+              <entry key="1517941988" value="Laços For com Range  " />
+              <entry key="1521411200" value="Projeto Gerador de Nome de Banda  " />
+              <entry key="1566856357" value="Usar Print  " />
+              <entry key="1592611158" value="Módulo  " />
+              <entry key="1606163007" value="Projeto Calculadora de Gorjeta  " />
+              <entry key="1639961942" value="Aninhamento e Elif  " />
+              <entry key="1719245063" value="Projeto Maior ou Menor  " />
+              <entry key="1720631818" value="Descrever o Problema  " />
+              <entry key="1730117572" value="Manipulação de Strings  " />
+              <entry key="1744300585" value="Projeto da Máquina de Café  " />
+              <entry key="17794001" value="Roleta do Banqueiro  " />
+              <entry key="17794002" value="IndexError  " />
+              <entry key="17794003" value="Listas  " />
+              <entry key="17794004" value="Módulo Random  " />
+              <entry key="17794005" value="Pedra Papel Tesoura  " />
+              <entry key="17794006" value="Funções  " />
+              <entry key="17794007" value="Laços For  " />
+              <entry key="1783099172" value="Dia 1  " />
+              <entry key="1791388063" value="Operações Matemáticas  " />
+              <entry key="1820122666" value="Projeto Gerador de Senhas  " />
+              <entry key="1825435284" value="Funções com Entradas  " />
+              <entry key="1835831684" value="Dia 9  " />
+              <entry key="1893623829" value="Dia 16-100" />
+              <entry key="1902731480" value="Namespaces e Escopo  " />
+              <entry key="1923669322" value="Simular no Computador  " />
+              <entry key="195716625" value="Argumentos Posicionais vs Nomeados  " />
+              <entry key="1977144334" value="Projeto de Leilão às Cegas  " />
+              <entry key="199568011" value="Projeto Ilha do Tesouro  " />
+              <entry key="2019991323" value="Caesar Cipher 1  " />
+              <entry key="2038477174" value="Dia 14  " />
+              <entry key="2083621760" value="Dia 10  " />
+              <entry key="2088487643" value="Docstrings  " />
+              <entry key="2107013760" value="Variáveis Globais  " />
+              <entry key="216408927" value="Projeto de Calculadora  " />
+              <entry key="283125148" value="Entradas  " />
+              <entry key="284492507" value="Se e Senão  " />
+              <entry key="342841397" value="Operadores Lógicos  " />
+              <entry key="367561985" value="Maior Pontuação  " />
+              <entry key="373790071" value="Dia 5  " />
+              <entry key="392892348" value="Passo 1  " />
+              <entry key="417849496" value="Múltiplos Ifs  " />
+              <entry key="424097809" value="Dia 15  " />
+              <entry key="476425553" value="Projeto Blackjack  " />
+              <entry key="481990002" value="Constantes Globais  " />
+              <entry key="526466484" value="Erro de Tipo, Verificação e Conversão  " />
+              <entry key="540859013" value="Pizza Python  " />
+              <entry key="566117749" value="Dicionários  " />
+              <entry key="625529494" value="Imprimindo  " />
+              <entry key="627596553" value="Passo 4  " />
+              <entry key="636283032" value="Variáveis  " />
+              <entry key="644805369" value="Dia 2  " />
+              <entry key="653216157" value="Projeto de Adivinhação de Números  " />
+              <entry key="671285232" value="Dia 13  " />
+              <entry key="740423759" value="Dia 4  " />
+              <entry key="785894060" value="Reproduzir o Bug  " />
+              <entry key="796392606" value="Funções com Saídas  " />
+              <entry key="881809023" value="Dia 8  " />
+              <entry key="900654030" value="Cifra de César 3  " />
+              <entry key="915669702" value="Caesar Cipher 2  " />
+              <entry key="925561270" value="Listas e Dicionários Aninhados  " />
+              <entry key="997111556" value="Manipulação de Números  " />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Portuguese (Brazil)" value="540" />
+      </map>
+    </option>
+  </component>
+</project>

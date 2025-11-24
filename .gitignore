@@ -1,0 +1,16 @@
+# Arquivos de configuração do PyCharm (pessoais)
+.idea/
+*.iml
+
+# Ambientes Virtuais (são pesados e gerados localmente)
+venv/
+.venv/
+env/
+
+# Arquivos compilados pelo Python (não precisamos subir isso)
+__pycache__/
+*.pyc
+
+# Arquivos de sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
